@@ -2,6 +2,7 @@ baseurl: "https://bwarren2.github.io/politiconvo/"
 title: "Politiconvo"
 theme: "hugo-theme-zen"
 publishDir: docs
+canonifyurls: true
 
 params:
   contact: "info@example.org"
