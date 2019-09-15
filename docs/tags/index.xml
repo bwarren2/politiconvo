@@ -9,10 +9,26 @@
     <atom:link href="https://bwarren2.github.io/politiconvo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>yong</title>
-      <link>https://bwarren2.github.io/politiconvo/tags/yong/</link>
+      <title>farmers</title>
+      <link>https://bwarren2.github.io/politiconvo/tags/farmers/</link>
       <pubDate>Fri, 05 Sep 2014 14:08:49 -0400</pubDate>
-      <guid>https://bwarren2.github.io/politiconvo/tags/yong/</guid>
+      <guid>https://bwarren2.github.io/politiconvo/tags/farmers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trade</title>
+      <link>https://bwarren2.github.io/politiconvo/tags/trade/</link>
+      <pubDate>Fri, 05 Sep 2014 14:08:49 -0400</pubDate>
+      <guid>https://bwarren2.github.io/politiconvo/tags/trade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YK</title>
+      <link>https://bwarren2.github.io/politiconvo/tags/yk/</link>
+      <pubDate>Fri, 05 Sep 2014 14:08:49 -0400</pubDate>
+      <guid>https://bwarren2.github.io/politiconvo/tags/yk/</guid>
       <description></description>
     </item>
     
