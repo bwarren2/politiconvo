@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SiteTitle</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on SiteTitle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 05 Sep 2014 14:08:49 -0400</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Farmers</title>
+      <link>https://example.org/posts/farmers/</link>
+      <pubDate>Fri, 05 Sep 2014 14:08:49 -0400</pubDate>
+      <guid>https://example.org/posts/farmers/</guid>
+      <description>&lt;p&gt;Farming farming farming.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
