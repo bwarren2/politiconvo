@@ -1,6 +1,7 @@
 baseurl: "https://example.org/"
 title: "SiteTitle"
 theme: "hugo-theme-zen"
+publishDir: docs
 
 params:
   contact: "info@example.org"
