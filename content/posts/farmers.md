@@ -1,12 +1,10 @@
 ---
-title: "Trump Administration slams US farmers three ways"
+title: "Trump administration doesn't think about American farmers"
 date: 2014-09-05T14:08:49-04:00
 draft: false
 author: "Yong"
 tags: ['YK', 'farmers', 'trade']
 ---
-
-## Trump administration doesn't think about American farmers
 
 The Trump administration appears incapable of understanding the broader consequences of its policy decisions. Its inability to protect American soybean farmers in the ongoing trade war with China is a stark example of this ineptitude. The administration began a trade dispute with Beijing without a contingency plan for retaliation on the largest U.S. export commodity to China, soybeans. The administration sabotaged efforts by American farmers to find new markets for soybeans by engaging in trade disputes with prospective importers. The administration further hurt the rural economy’s expected returns by reneging on the promise to require all domestic refineries to include soybean and corn-based ethanol in their gasoline mix.
 
