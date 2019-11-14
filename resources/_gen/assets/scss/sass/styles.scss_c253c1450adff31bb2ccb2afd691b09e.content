@@ -737,10 +737,14 @@ article .tags li {
 article .tags a {
   padding-right: 0.28181818rem; }
 
+article .content-dates {
+  color: #666666;
+  text-align: right; }
+
 article code {
   font-size: 0.72727273rem;
   line-height: 1.40909091rem;
-  word-wrap: break-word; }
+  overflow-wrap: break-word; }
   @media (min-width: 1111px) {
     article code {
       font-size: 0.77777778rem;
@@ -753,18 +757,17 @@ article pre {
   border: 1px solid #cccccc;
   background-color: #fff;
   overflow: auto;
-  max-height: 250px;
+  max-height: 300px;
   max-width: 90vw; }
-  @media (min-width: 666px) {
-    article pre {
-      max-width: 600px; } }
+  article pre.chroma {
+    max-height: initial;
+    overflow-x: scroll; }
   article pre > code {
     display: inline-block;
     white-space: pre; }
 
-article .content-dates {
-  color: #666666;
-  text-align: right; }
+article .js-clipboard-button {
+  display: block; }
 
 .title-submitted {
   margin-bottom: 0; }
@@ -845,9 +848,6 @@ figure.podcast audio {
   .content input:not(:placeholder-shown):invalid,
   .content textarea:not(:placeholder-shown):invalid {
     background-color: #fff0f0; }
-
-.content button {
-  display: block; }
 
 .js-submitted input:valid,
 .js-submitted textarea:valid {
