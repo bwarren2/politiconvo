@@ -1,7 +1,10 @@
 ---
 title: "Separation"
-date: 2019-11-13T20:46:11-05:00
+date: 2019-11-11T20:46:11-05:00
 draft: false
+author: "Ben"
+tags: ['BW', 'immigration']
+
 ---
 
 I want to write a different, conservative take on Trump's family separation policy.  I'll presume that Trump's aims are fundamentally correct, i.e.:
