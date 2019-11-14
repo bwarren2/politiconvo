@@ -1,12 +1,12 @@
 ---
 title: "Separation"
-date: 2018-09-05T14:08:49-04:00
+date: 2019-09-05T14:08:49-04:00
 draft: false
 author: "Ben"
 tags: ['BW', 'immigration']
 ---
 
-I want to write a different, conservative take on Trump's family separation policy.  I'll presume that Trump's aims are fundamentally correct, i.e.:
+I want to write a different, conservative take on Trump's family separation policy.  I'll presume that Trump's premises are fundamentally correct, i.e.:
 
  * illegal immigration is a very serious problem of national security importance to the US;
  * that illegal immigrants merit no expectations of good treatment.
@@ -20,7 +20,7 @@ Briefly: no.  Because:
  3. poor administration left children in limbo, resulting in their permanent entry to the US;
  4. it undermined the expectations of stable, constant rule of law
 
-First we can reason by analogy.  The Trump administration was trying to effect lasting change in US immigration patterns, with the key word being _lasting_.  A policy that is immediately struck down or recanted under extreme pressure is like a crash diet that only lasts a week: it doesn't effect lasting change, and is mostly a waste of time, especially compared to responsible choices that _do_ produce lasting change.  In a diet that might exercising a little; in immigration, it might have been detaining parents and children together, more often, and longer, publicizing that surrendering at the border is just an express bus to a holding prison and deportation.  Instead of releasing people pending trial, this would have made surrendering pointless; why cross the border to go to prison and then back where you came from, rather than just not going at all?
+First we can reason by analogy.  The Trump administration was trying to effect lasting change in US immigration patterns, with the key word being _lasting_.  A policy that is immediately struck down or recanted under extreme pressure is like a crash diet that only lasts a week: it doesn't effect lasting change, and is mostly a waste of time, especially compared to responsible choices that _do_ produce lasting change.  In a diet that might include exercising a little; in immigration, it might have been detaining parents and children together, more often, and longer, publicizing that surrendering at the border is just an express bus to a holding prison and deportation.  Instead of releasing people pending trial, this would have made surrendering pointless; why cross the border to go to prison and then back where you came from, rather than just not going at all?
 
 This route has the key benefit of being much more likely to stick than a family separation policy.  The optics of separating preteen children and toddlers from parents are obviously worse than families in holding pens together, and are much more likely to produce backlash.  Instead of showing slightly more deterrence for three years, this policy would have been a permanent deterrent for multiple years to come, making a bigger dent in the immigration problem.
 
