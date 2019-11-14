@@ -1,6 +1,6 @@
 ---
 title: "Trump administration doesn't think about American farmers"
-date: 2018-09-05T14:08:49-04:00
+date: 2019-09-05T14:08:49-04:00
 draft: false
 author: "Yong"
 tags: ['YK', 'farmers', 'trade']
