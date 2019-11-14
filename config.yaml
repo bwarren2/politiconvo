@@ -1,5 +1,5 @@
 baseurl: "https://bwarren2.github.io/politiconvo/"
-title: "Politiconvo"
+title: "Washpatch"
 theme: "hugo-theme-zen"
 publishDir: docs
 canonifyurls: true
